@@ -1,0 +1,12 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/xcschemes/*
+!*.xcodeproj/xcshareddata/xcschemes/Shared.xcscheme
+
+# Swift Package Manager
+.build/
+
+# Carthage
