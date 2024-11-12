@@ -15,7 +15,9 @@ struct ContentView: View {
         Text("Mira la consola para ver los resultados de los ejercicios")
             .padding()
             .onAppear {
-                swiftBasics.runExercises()
+                //swiftBasics.runExercises()
+                let exercises = ArraysFuncAndClousures()
+                exercises.runExercises()
             }
     }
     

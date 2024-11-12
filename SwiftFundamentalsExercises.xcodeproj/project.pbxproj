@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4DC81E422CDFBCE300598290 /* SwiftBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC81E412CDFBCE300598290 /* SwiftBasics.swift */; };
 		4DC81E442CDFF04900598290 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4DC81E432CDFF04900598290 /* .gitignore */; };
+		4DDEFE812CE2616A0090E322 /* ArraysFuncAndClousures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDEFE802CE2614B0090E322 /* ArraysFuncAndClousures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		4DC81E2A2CDFB1B400598290 /* SwiftFundamentalsExercisesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftFundamentalsExercisesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DC81E412CDFBCE300598290 /* SwiftBasics.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftBasics.swift; sourceTree = "<group>"; };
 		4DC81E432CDFF04900598290 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4DDEFE802CE2614B0090E322 /* ArraysFuncAndClousures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysFuncAndClousures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -105,6 +107,7 @@
 		4DC81E3F2CDFBC7800598290 /* Exercises */ = {
 			isa = PBXGroup;
 			children = (
+				4DDEFE802CE2614B0090E322 /* ArraysFuncAndClousures.swift */,
 				4DC81E412CDFBCE300598290 /* SwiftBasics.swift */,
 			);
 			path = Exercises;
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DC81E422CDFBCE300598290 /* SwiftBasics.swift in Sources */,
+				4DDEFE812CE2616A0090E322 /* ArraysFuncAndClousures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
